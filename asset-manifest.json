@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quadb-tech-test-project/static/css/main.2b9cd7ca.css",
+    "main.js": "/Quadb-tech-test-project/static/js/main.996bb190.js",
+    "index.html": "/Quadb-tech-test-project/index.html",
+    "main.2b9cd7ca.css.map": "/Quadb-tech-test-project/static/css/main.2b9cd7ca.css.map",
+    "main.996bb190.js.map": "/Quadb-tech-test-project/static/js/main.996bb190.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b9cd7ca.css",
+    "static/js/main.996bb190.js"
+  ]
+}
